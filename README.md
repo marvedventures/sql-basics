@@ -24,7 +24,7 @@
 
 ### Links
 
-- GitHub : [Code](https://github.com/marvedventures/sql-basics)
+- GitHub : [Code](https://github.com/marvedventures/sql-basics-ddl)
 
 ## My process
 
