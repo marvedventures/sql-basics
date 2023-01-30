@@ -1,6 +1,8 @@
-# SQL BASICS
+# SQL BASICS (DDL)
 
-Creating simple College database using SQL.
+- Creating simple College database using SQL.
+- Using Data Definition Language (DDL) subset of SQL
+
 
 ## Table of contents
 
