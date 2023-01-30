@@ -35,6 +35,7 @@
 
 ### What I learned
 
+- Use DDL, a subset of SQL to perform various operations on the database such as CREATE, ALTER and DELETE.
 - CREATE the following using SQL Syntax:
 - a) Database
 - b) Table
